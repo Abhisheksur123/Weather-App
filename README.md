@@ -35,7 +35,8 @@ To contribute to the development of the Weather App, follow these steps:
 3. Make your changes and commit: `git commit -m 'Add new feature'`
 4. Push to the branch: `git push origin feature/new-feature`
 5. Create a pull request.
+## License
 
-
+This project is licensed under the MIT License - see the (LICENSE) file for details.
 
 Feel free to reach out if you have any questions or feedback!
