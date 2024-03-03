@@ -21,7 +21,6 @@ The Weather App is a simple web application that allows users to check the curre
 1. Enter the desired location in the search bar.
 2. Click the "Get Weather" button to fetch and display the current weather information.
 3. Toggle between Celsius and Fahrenheit using the unit switch button.
-4. 
 
 ## Screenshots
 <img width="524" alt="image" src="https://github.com/Abhisheksur123/Weather-App/assets/107261617/8ee06f3c-019e-44c1-939d-1a064af75c36">
